@@ -1,7 +1,7 @@
 import { useState } from "react";
 import About from "./components/About";
 import Projects from "./components/Projects";
-import Skills from "./components/Skills";
+import Skills from "./components/skills";
 
 export default function App() {
   const [activeSection, setActiveSection] = useState("home");
