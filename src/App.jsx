@@ -119,14 +119,7 @@ export default function App() {
                 </a>
               </div>
 
-              {/* Intrainz Innovation */}
-              <div className="space-y-2">
-                <h2 className="text-2xl font-semibold text-cyan-300">Intrainz Innovation Company</h2>
-                <p className="text-xl text-gray-300">Certification focusing on Web Development and Full-Stack projects. Gained hands-on experience with React, Node.js, and database management.</p>
-                <a href="/intrainz_certificate.pdf" target="_blank" rel="noreferrer" className="bg-gray-800/50 p-4 rounded-lg border border-gray-700 hover:border-cyan-400 hover:-translate-y-1 transition">
-                  <span className="text-cyan-400 font-medium">View Certificate →</span>
-                </a>
-              </div>
+             
 
             </div>
           </section>
